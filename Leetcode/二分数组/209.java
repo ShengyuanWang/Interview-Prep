@@ -18,4 +18,4 @@ class Solution {
         }
         return minLen == nums.length + 1 ? 0 : minLen;
     }
-}
+}977.java

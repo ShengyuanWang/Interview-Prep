@@ -323,7 +323,7 @@
     原因。当然在当下，并不是说 script 标签必须放在底部，因为你可以给 script 标签添加 defer 或者 async 属性。
    ```
 #### 19. async 和 defer 的作用是什么？有什么区别？（浏览器解析过程）
-![async&defer](image.png)
+![async&defer](images/image.png)
    ```
     （1）js脚本没有 defer 或 async，浏览器会立即加载并执行指定的脚本，也就是说不等待后续载入的文档元素，读到就加载并执
         行。
